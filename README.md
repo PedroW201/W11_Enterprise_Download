@@ -14,4 +14,6 @@ Note: You can also change MediaArch x64 to /MediaArch x86 for the 32-Bit version
 
 Click Yes when the User Account Control prompt appears.
 
-Enter your product key.
+Enter Windows 11 Enterpise product key.
+
+Windows 11 Enterprise	XGVPP-NMH47-7TTHJ-W3FW7-8HV2C
